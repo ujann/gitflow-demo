@@ -1,5 +1,5 @@
 This is a complex file
 line 2
-i changed line 3 in master
+zeile 3 in feature 1
 line 4
 line 5
